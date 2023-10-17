@@ -64,4 +64,4 @@ jobs:
         with:
           app-name: 'Secondhandautos1'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_206A892B998B4EF9A56FD11F74E76B9D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D5281CA23D7A4DA7843783B06F1763A6 }}
